@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="source"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry exported="true" kind="lib" path="lib/log4j-1.2.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/fastjson-1.1.17.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jsr166y.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-logging-1.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/netty-3.4.5.Final-modify.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
